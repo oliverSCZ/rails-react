@@ -1,6 +1,16 @@
 Rails.application.routes.draw do
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+ # namespace :v1, defaults: { format: :json } do
+ #    resources :greetings, only: [:index]
+ #  end
 
-  # Defines the root path route ("/")
-  # root "articles#index"
+  namespace :v1, defaults: { format: :json } do 
+    get 'greetings', to: 'greetings#index'
+  end
+
+  # get '*page', to: 'static#index', constraints: ->(req) do
+  # !req.xhr? && req.format.html?
+  # end
+# Defines the root path route ("/")
+root "greetings#index"
 end
