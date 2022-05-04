@@ -44,7 +44,8 @@ Note: In case this doesn't work, try `rails db:drop` and do the steps all over a
 
 - GitHub: [@oliverSCZ](https://github.com/oliverSCZ)
 - Twitter: [@rtonata](https://twitter.com/olivercoimbra)
-- LinkedIn: [Oliver Coimbra](https://www.linkedin.com/in/olivercoimbra/)
+- LinkedIn: [Oliver Coimbra](https://www.linkedin.com/in/olivercoimbra.github
+/)
 
 ## 🤝 Contributing
 
