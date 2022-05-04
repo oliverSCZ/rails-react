@@ -43,7 +43,7 @@ Note: In case this doesn't work, try `rails db:drop` and do the steps all over a
 👤 **Oliver Coimbra**
 
 - GitHub: [@oliverSCZ](https://github.com/oliverSCZ)
-- Twitter: [@rtonata](https://twitter.com/olivercoimbra)
+- Twitter: [@olivercoimbra](https://twitter.com/olivercoimbra)
 - LinkedIn: [Oliver Coimbra](https://www.linkedin.com/in/olivercoimbra.github
 /)
 
